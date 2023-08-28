@@ -72,3 +72,4 @@ module.exports = {
 
 // mongodb + srv://IsaienkoViktor:<DlaQVXKgnhvEZXP0>@cluster0.fq7vncz.mongodb.net/?retryWrites=true&w=majority
 // mongodb+srv://IsaienkoViktor:<DlaQVXKgnhvEZXP0>@cluster0.fq7vncz.mongodb.net/
+// Api key = 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
